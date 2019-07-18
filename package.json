@@ -1,0 +1,17 @@
+{
+  "name": "ioeResult",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cherio.js",
+  "dependencies": {
+    "cherio": "^1.0.0-rc.2",
+    "nodemailer": "^6.2.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
